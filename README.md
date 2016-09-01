@@ -9,8 +9,8 @@ Specifications
 ===========================
 
 -Algorithm Scrypt
-, 20 Millions Coins PoW,
-, 10000 PoW blocks,
+, 20 Millions Coins PoW
+, 10000 PoW blocks
 , 20 block confirmation
 , Rpc port 8330
 , P2p port 8329
@@ -24,6 +24,6 @@ Specifications
 
 POW Block reward:
 
-1 - 10 000 = 2000 BTD coins
+1 - 10 000 = 2000 BTD coins,
 POW ends on block 10 000
 
